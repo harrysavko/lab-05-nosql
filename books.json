@@ -24,4 +24,14 @@
     "published_year": 1983,
     "author_ids": ["author_003"]
   }
+  {
+  "title": "Fahrenheit 451",
+  "published_year": 1953,
+  "author_ids": ["author_004"]
+},
+  {
+  "title": "The Great Gatsby",
+  "published_year": 1925,
+  "author_ids": ["author_005"]
+}
 ]
