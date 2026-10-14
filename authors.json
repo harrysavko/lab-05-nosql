@@ -25,7 +25,7 @@
       "short": "British novelist best known for the Discworld series.",
       "long": "Terry Pratchett was a British author of comic fantasy. The Colour of Magic began the Discworld series. He co-wrote Good Omens with Neil Gaiman."
     }
-  }
+  },
   {
   "_id": "author_004",
   "name": "Ray Bradbury",
@@ -33,7 +33,7 @@
   "bio":{
     "short": "American author best known for his highly influential dystopian novel Fahrenheit 451.",
     "long": "Ray Bradbury was an American fantasy, science fiction, horror, and dystopian writer. He is celebrated for his 1953 masterpiece Fahrenheit 451, which explores a future society where books are outlawed and burned."
-    }
+    },
     {
     "_id": "author_004",
     "name": "F. Scott Fitzgerald",
