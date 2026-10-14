@@ -27,19 +27,21 @@
     }
   },
   {
-  "_id": "author_004",
-  "name": "Ray Bradbury",
-  "nationality": "American",
-  "bio":{
-    "short": "American author best known for his highly influential dystopian novel Fahrenheit 451.",
-    "long": "Ray Bradbury was an American fantasy, science fiction, horror, and dystopian writer. He is celebrated for his 1953 masterpiece Fahrenheit 451, which explores a future society where books are outlawed and burned."
-    },
-    {
     "_id": "author_004",
+    "name": "Ray Bradbury",
+    "nationality": "American",
+    "bio": {
+      "short": "American author best known for his highly influential dystopian novel Fahrenheit 451.",
+      "long": "Ray Bradbury was an American fantasy, science fiction, horror, and dystopian writer. He is celebrated for his 1953 masterpiece Fahrenheit 451, which explores a future society where books are outlawed and burned."
+    }
+  },
+  {
+    "_id": "author_005",
     "name": "F. Scott Fitzgerald",
-    "nationality": "American"
-    "bio":{
+    "nationality": "American",
+    "bio": {
       "short": "American novelist and short story writer widely regarded as one of the greatest twentieth-century authors.",
       "long": "F. Scott Fitzgerald was a prominent American. He is best known for his 1925 novel The Great Gatsby, a critique of the American Dream and the disillusionment of the roaring twenties."
     }
+  }
 ]
